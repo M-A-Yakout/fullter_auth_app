@@ -81,7 +81,7 @@ dependencies:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/M-A-Yakout/fullter_auth_app.git
 ```
 
 2. Navigate to the project directory:
